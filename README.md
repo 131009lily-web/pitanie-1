@@ -795,6 +795,6 @@ python app.py
 
 ## Ссылка на видео
 
-https://vk.ru/wall1100307078_2
+https://vkvideo.ru/video-236066369_456239021?sh=4
 
 
